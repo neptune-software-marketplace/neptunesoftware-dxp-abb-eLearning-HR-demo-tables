@@ -1,0 +1,101 @@
+{
+	"id": "abbd1f91-ddad-ed11-a8e0-000d3ada944e",
+	"createdAt": "2023-02-16T09:37:47.523Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"fields": [
+		{
+			"id": "f503c2aa-df54-4555-dc0a-e22929cb5ae9",
+			"fieldName": "firstName",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "c944a9e5-389e-4980-8491-4736e2d104b7",
+			"fieldName": "lastName",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "5b918971-5e23-44a2-d33e-1965937d337a",
+			"fieldName": "emailAddress",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "52ccbbd5-f9d7-4c75-8ac3-368d168fb5d1",
+			"fieldName": "phoneNumber",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "8fcd9b3c-4010-4a54-cadf-f39cf8332642",
+			"fieldName": "streetAddress",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "82282769-b64a-43fe-9cf7-9281bfe31a67",
+			"fieldName": "nationality",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "84a66a39-e837-446a-98d8-ae92ab17f28c",
+			"fieldName": "salary",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "fa413386-a6c4-405b-883f-02d60cab7374",
+			"fieldName": "city",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "a40568f3-0593-4aa9-ead2-05d2bfc25cf3",
+			"fieldName": "postCode",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "706907f5-1a86-44b5-ced8-ab10a326ceb0",
+			"fieldName": "department",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "971d6324-7927-4e5b-e53d-a1c88f43d42b",
+			"fieldName": "role",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "6c18ad37-98d1-42bf-cfe3-4302641a112d",
+			"fieldName": "hiredDate",
+			"fieldType": "timestamp",
+			"isUnique": false
+		},
+		{
+			"id": "589c97d0-a839-4d5e-9feb-1925585e7e70",
+			"fieldName": "employmentType",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "1ce97029-aa24-4bcc-9166-9fdf17aeee2b",
+			"fieldName": "employeeReferenceNo",
+			"fieldType": "text",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "elearning_hr_demo_employees",
+	"description": null,
+	"ver": "23.2.17.751",
+	"enableAudit": false,
+	"includeDataInPackage": true,
+	"package": "aa637821-dcad-ed11-a8e0-000d3ada944e",
+	"rolesRead": [],
+	"rolesWrite": []
+}

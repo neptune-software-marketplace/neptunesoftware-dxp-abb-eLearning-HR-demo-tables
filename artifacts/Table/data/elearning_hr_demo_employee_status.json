@@ -1,0 +1,29 @@
+[
+	{
+		"id": "9c0fdb81-9b7a-4ed3-a0e2-3ac0b2a33350",
+		"createdAt": "1676970317140",
+		"updatedAt": "1676970317140",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"statusNumber": "3",
+		"means": "Contractor"
+	},
+	{
+		"id": "9499aa6e-5280-4312-960a-6212630d7743",
+		"createdAt": "1676970317140",
+		"updatedAt": "1676970317140",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"statusNumber": "2",
+		"means": "Part-time"
+	},
+	{
+		"id": "4066d145-d66f-4170-ad60-9b6026881fbe",
+		"createdAt": "1676970317140",
+		"updatedAt": "1676970317140",
+		"createdBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"statusNumber": "1",
+		"means": "Full-time"
+	}
+]

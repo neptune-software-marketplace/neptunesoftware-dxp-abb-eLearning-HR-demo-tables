@@ -1,0 +1,29 @@
+{
+	"id": "115318cf-ddad-ed11-a8e0-000d3ada944e",
+	"createdAt": "2023-02-16T09:39:32.066Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"fields": [
+		{
+			"id": "4d75ed9b-4890-491e-e40b-2e835664bae6",
+			"fieldName": "statusNumber",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "66416189-5a84-4a00-8b4d-3e2babed67c8",
+			"fieldName": "means",
+			"fieldType": "text",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "elearning_hr_demo_employee_status",
+	"description": null,
+	"ver": "23.2.16.1036",
+	"enableAudit": false,
+	"includeDataInPackage": true,
+	"package": "aa637821-dcad-ed11-a8e0-000d3ada944e",
+	"rolesRead": [],
+	"rolesWrite": []
+}
