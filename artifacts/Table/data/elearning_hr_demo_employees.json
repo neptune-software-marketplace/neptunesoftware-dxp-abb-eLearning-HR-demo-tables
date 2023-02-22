@@ -16,7 +16,7 @@
 		"postCode": "48277",
 		"department": "100",
 		"role": "Software Developer",
-		"hiredDate": "2023-02-14T10:03:00.000Z",
+		"hireDate": "2023-02-14T10:03:00.000Z",
 		"employmentType": "2",
 		"employeeReferenceNo": "2"
 	},
@@ -37,7 +37,7 @@
 		"postCode": "56564",
 		"department": "100",
 		"role": "Software Developer",
-		"hiredDate": "2017-02-13T10:03:00.000Z",
+		"hireDate": "2017-02-13T10:03:00.000Z",
 		"employmentType": "2",
 		"employeeReferenceNo": "6"
 	},
@@ -58,7 +58,7 @@
 		"postCode": "456456",
 		"department": "200",
 		"role": "Manager",
-		"hiredDate": "2022-07-14T10:04:00.000Z",
+		"hireDate": "2022-07-14T10:04:00.000Z",
 		"employmentType": "1",
 		"employeeReferenceNo": "9"
 	},
@@ -79,7 +79,7 @@
 		"postCode": "HA7 6TR",
 		"department": "200",
 		"role": "Manager",
-		"hiredDate": "2023-02-01T10:03:00.000Z",
+		"hireDate": "2023-02-01T10:03:00.000Z",
 		"employmentType": "2",
 		"employeeReferenceNo": "3"
 	},
@@ -100,7 +100,7 @@
 		"postCode": "67789",
 		"department": "",
 		"role": "Accountant",
-		"hiredDate": "2023-09-21T10:03:00.000Z",
+		"hireDate": "2023-09-21T10:03:00.000Z",
 		"employmentType": "2",
 		"employeeReferenceNo": "8"
 	},
@@ -121,7 +121,7 @@
 		"postCode": "88774",
 		"department": "200",
 		"role": "Manager",
-		"hiredDate": "2022-01-30T10:02:00.000Z",
+		"hireDate": "2022-01-30T10:02:00.000Z",
 		"employmentType": "1",
 		"employeeReferenceNo": "1"
 	},
@@ -142,7 +142,7 @@
 		"postCode": "2033",
 		"department": "200",
 		"role": "Manager",
-		"hiredDate": "2019-04-08T10:03:00.000Z",
+		"hireDate": "2019-04-08T10:03:00.000Z",
 		"employmentType": "1",
 		"employeeReferenceNo": "4"
 	},
@@ -163,7 +163,7 @@
 		"postCode": "3544",
 		"department": "100",
 		"role": "Consultant",
-		"hiredDate": "2015-02-16T10:04:00.000Z",
+		"hireDate": "2015-02-16T10:04:00.000Z",
 		"employmentType": "3",
 		"employeeReferenceNo": "10"
 	},
@@ -184,7 +184,7 @@
 		"postCode": "3654",
 		"department": "300",
 		"role": "Accountant",
-		"hiredDate": "2015-02-03T10:03:00.000Z",
+		"hireDate": "2015-02-03T10:03:00.000Z",
 		"employmentType": "3",
 		"employeeReferenceNo": "5"
 	},
@@ -205,7 +205,7 @@
 		"postCode": "36542",
 		"department": "300",
 		"role": "Manager",
-		"hiredDate": "2016-03-14T10:04:00.000Z",
+		"hireDate": "2016-03-14T10:04:00.000Z",
 		"employmentType": "1",
 		"employeeReferenceNo": "11"
 	},
@@ -226,7 +226,7 @@
 		"postCode": "65756",
 		"department": "400",
 		"role": "Consultant",
-		"hiredDate": "2022-02-02T10:03:00.000Z",
+		"hireDate": "2022-02-02T10:03:00.000Z",
 		"employmentType": "1",
 		"employeeReferenceNo": "7"
 	}
