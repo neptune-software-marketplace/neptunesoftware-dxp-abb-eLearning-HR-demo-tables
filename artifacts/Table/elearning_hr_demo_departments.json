@@ -8,14 +8,14 @@
 			"fieldName": "department",
 			"fieldType": "text",
 			"isUnique": false,
-			"description": "Department"
+			"description": "Departments"
 		}
 	],
 	"indices": [],
 	"foreignKeys": [],
 	"name": "elearning_hr_demo_departments",
 	"description": null,
-	"ver": "23.3.16.1348",
+	"ver": "23.3.16.1410",
 	"enableAudit": false,
 	"includeDataInPackage": true,
 	"package": "aa637821-dcad-ed11-a8e0-000d3ada944e",
