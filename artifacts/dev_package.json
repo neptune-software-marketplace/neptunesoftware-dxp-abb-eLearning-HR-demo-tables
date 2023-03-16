@@ -15,13 +15,13 @@
 	"odataMock": [],
 	"dictionary": [
 		{
-			"id": "abbd1f91-ddad-ed11-a8e0-000d3ada944e",
-			"name": "elearning_hr_demo_employees",
+			"id": "d91ad9bb-4d02-4c2a-9e35-7aab9efefe33",
+			"name": "elearning_hr_demo_departments",
 			"description": null
 		},
 		{
-			"id": "38eb5603-05c4-ed11-a8e0-000d3ada944e",
-			"name": "elearning_hr_demo_departments",
+			"id": "abbd1f91-ddad-ed11-a8e0-000d3ada944e",
+			"name": "elearning_hr_demo_employees",
 			"description": null
 		},
 		{
@@ -51,8 +51,5 @@
 	"wf_definition": [],
 	"connector": [],
 	"events": [],
-	"media_library": [],
-	"code_snippets": [],
-	"wf_determination": [],
-	"wf_taskaction": []
+	"media_library": []
 }

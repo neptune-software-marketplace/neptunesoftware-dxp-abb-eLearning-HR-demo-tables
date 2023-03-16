@@ -1,1 +1,42 @@
-[]
+[
+	{
+		"id": "dab12244-ad7f-4570-abfd-f3aeb6213ab0",
+		"createdAt": "1678879313665",
+		"updatedAt": "1678879560807",
+		"createdBy": "admin",
+		"updatedBy": "admin",
+		"department": "200"
+	},
+	{
+		"id": "b08b94bf-c3fd-4e3c-a723-ecd70f31766e",
+		"createdAt": "1678879313665",
+		"updatedAt": "1678879560807",
+		"createdBy": "admin",
+		"updatedBy": "admin",
+		"department": ""
+	},
+	{
+		"id": "aeaa3247-762e-460d-ad1a-e5c381ca9ff1",
+		"createdAt": "1678879313665",
+		"updatedAt": "1678879560807",
+		"createdBy": "admin",
+		"updatedBy": "admin",
+		"department": "400"
+	},
+	{
+		"id": "7e56ae26-8dee-4b43-b01f-daeac64a0e20",
+		"createdAt": "1678879313665",
+		"updatedAt": "1678879560807",
+		"createdBy": "admin",
+		"updatedBy": "admin",
+		"department": "100"
+	},
+	{
+		"id": "7169dea8-bc19-4475-bda2-ffc2d2e3bada",
+		"createdAt": "1678879313665",
+		"updatedAt": "1678879560807",
+		"createdBy": "admin",
+		"updatedBy": "admin",
+		"department": "300"
+	}
+]
