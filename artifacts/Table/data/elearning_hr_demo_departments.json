@@ -5,7 +5,7 @@
 		"updatedAt": "1678974561949",
 		"createdBy": "cezar.strugariu@neptune-software.com",
 		"updatedBy": "cezar.strugariu@neptune-software.com",
-		"department": "100"
+		"departments": "100"
 	},
 	{
 		"id": "bf14917c-a973-4776-9ba0-88081538b00d",
@@ -13,7 +13,7 @@
 		"updatedAt": "1678974561949",
 		"createdBy": "cezar.strugariu@neptune-software.com",
 		"updatedBy": "cezar.strugariu@neptune-software.com",
-		"department": "400"
+		"departments": "400"
 	},
 	{
 		"id": "5c4e642d-3371-44f4-a28d-63cdf648bb06",
@@ -21,7 +21,7 @@
 		"updatedAt": "1678974561949",
 		"createdBy": "cezar.strugariu@neptune-software.com",
 		"updatedBy": "cezar.strugariu@neptune-software.com",
-		"department": "200"
+		"departments": "200"
 	},
 	{
 		"id": "19da36ac-2bd0-4d5c-81ff-3cf81b117f7f",
@@ -29,6 +29,6 @@
 		"updatedAt": "1678974561949",
 		"createdBy": "cezar.strugariu@neptune-software.com",
 		"updatedBy": "cezar.strugariu@neptune-software.com",
-		"department": "300"
+		"departments": "300"
 	}
 ]
