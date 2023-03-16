@@ -1,0 +1,24 @@
+{
+	"id": "38eb5603-05c4-ed11-a8e0-000d3ada944e",
+	"createdAt": "2023-03-16T14:15:35.103Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"fields": [
+		{
+			"id": "e586adf4-4f78-4028-a10b-2f09785c9ee7",
+			"fieldName": "departments",
+			"fieldType": "text",
+			"isUnique": false,
+			"description": "Departments"
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "elearning_hr_demo_departments",
+	"description": null,
+	"ver": "23.3.16.1422",
+	"enableAudit": false,
+	"includeDataInPackage": true,
+	"package": "aa637821-dcad-ed11-a8e0-000d3ada944e",
+	"rolesRead": [],
+	"rolesWrite": []
+}

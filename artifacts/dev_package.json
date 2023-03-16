@@ -7,7 +7,7 @@
 	},
 	"name": "neptunesoftware-dxp-abb-eLearning-HR-demo-tables",
 	"description": null,
-	"ver": "23.3.16.1411",
+	"ver": "23.3.16.1420",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
@@ -20,7 +20,7 @@
 			"description": null
 		},
 		{
-			"id": "5712b349-01c4-ed11-a8e0-000d3ada944e",
+			"id": "38eb5603-05c4-ed11-a8e0-000d3ada944e",
 			"name": "elearning_hr_demo_departments",
 			"description": null
 		},
