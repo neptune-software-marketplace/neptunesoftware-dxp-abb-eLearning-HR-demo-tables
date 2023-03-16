@@ -20,11 +20,6 @@
 			"description": null
 		},
 		{
-			"id": "5712b349-01c4-ed11-a8e0-000d3ada944e",
-			"name": "elearning_hr_demo_departments",
-			"description": null
-		},
-		{
 			"id": "115318cf-ddad-ed11-a8e0-000d3ada944e",
 			"name": "elearning_hr_demo_employee_status",
 			"description": null
@@ -51,8 +46,5 @@
 	"wf_definition": [],
 	"connector": [],
 	"events": [],
-	"media_library": [],
-	"code_snippets": [],
-	"wf_determination": [],
-	"wf_taskaction": []
+	"media_library": []
 }
