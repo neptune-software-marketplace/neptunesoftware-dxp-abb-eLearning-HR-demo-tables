@@ -7,10 +7,24 @@
 	},
 	"name": "neptunesoftware-dxp-abb-eLearning-HR-demo-tables",
 	"description": null,
-	"ver": "23.3.16.1423",
+	"ver": "23.3.28.952",
 	"enableCICD": true,
-	"apps": [],
-	"api": [],
+	"apps": [
+		{
+			"id": "ed62af99-a003-4c3b-8724-b8be5e551726",
+			"application": "elearning_assign_assets",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [
+		{
+			"id": "ee0e21db-2f14-432d-b58c-1f8a9e0c5abb",
+			"name": "API elearning_hr_demo_assign_assets",
+			"description": null,
+			"apiGroup": null
+		}
+	],
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [
@@ -22,6 +36,11 @@
 		{
 			"id": "abbd1f91-ddad-ed11-a8e0-000d3ada944e",
 			"name": "elearning_hr_demo_employees",
+			"description": null
+		},
+		{
+			"id": "4009b154-7ffd-4d15-8864-28a1177d320d",
+			"name": "elearning_hr_demo_assign_assets",
 			"description": null
 		},
 		{

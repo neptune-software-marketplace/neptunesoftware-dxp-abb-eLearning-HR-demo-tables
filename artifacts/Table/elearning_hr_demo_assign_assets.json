@@ -1,0 +1,53 @@
+{
+	"id": "4009b154-7ffd-4d15-8864-28a1177d320d",
+	"createdAt": "2023-03-24T10:08:45.000Z",
+	"createdBy": "admin",
+	"fields": [
+		{
+			"id": "b84f8e29-f9bf-4207-fea1-8ebb1710e964",
+			"fieldName": "firstName",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "53f447fe-eb62-4bb1-de24-91504acf8f82",
+			"fieldName": "brand",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "0084e0bc-d649-4171-bea0-feb894c85623",
+			"fieldName": "model",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "b83bee0d-88ec-40f5-8968-476c8b928e65",
+			"fieldName": "serial",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "b9e06a8b-3790-44bd-98ad-dfef47bd9a1e",
+			"fieldName": "type",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "a2a95a3e-f6a9-4496-e55b-1892516f824c",
+			"fieldName": "lastName",
+			"fieldType": "text",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "elearning_hr_demo_assign_assets",
+	"description": null,
+	"ver": "23.3.28.923",
+	"enableAudit": false,
+	"includeDataInPackage": true,
+	"package": "aa637821-dcad-ed11-a8e0-000d3ada944e",
+	"rolesRead": [],
+	"rolesWrite": []
+}

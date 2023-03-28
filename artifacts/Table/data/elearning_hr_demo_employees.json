@@ -2,9 +2,9 @@
 	{
 		"id": "eb4927de-60a8-ed11-a8e0-000d3ada944e",
 		"createdAt": "1676969872326",
-		"updatedAt": "1676969872326",
+		"updatedAt": "1679589957700",
 		"createdBy": "cezar.strugariu@neptune-software.com",
-		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "admin",
 		"firstName": "Mark",
 		"lastName": "Brown",
 		"emailAddress": "mark@mail.com",
@@ -18,14 +18,15 @@
 		"role": "Software Developer",
 		"hireDate": "2023-02-14T10:03:00.000Z",
 		"employmentType": "2",
-		"employeeReferenceNo": "2"
+		"employeeReferenceNo": "2",
+		"employmentTime": "0y 1m 6d"
 	},
 	{
 		"id": "eacbbf34-7546-400d-a939-4654ff1db11e",
 		"createdAt": "1676969872326",
-		"updatedAt": "1676969872326",
+		"updatedAt": "1679589957704",
 		"createdBy": "cezar.strugariu@neptune-software.com",
-		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "admin",
 		"firstName": "Kase",
 		"lastName": "Just",
 		"emailAddress": "kase@mail.com",
@@ -39,15 +40,16 @@
 		"role": "Software Developer",
 		"hireDate": "2017-02-13T10:03:00.000Z",
 		"employmentType": "2",
-		"employeeReferenceNo": "6"
+		"employeeReferenceNo": "6",
+		"employmentTime": "6y 1m 7d"
 	},
 	{
 		"id": "e368413c-612e-4fd7-8d94-dea45bab30f6",
 		"createdAt": "1676969872326",
-		"updatedAt": "1676969872326",
+		"updatedAt": "1679589957704",
 		"createdBy": "cezar.strugariu@neptune-software.com",
-		"updatedBy": "cezar.strugariu@neptune-software.com",
-		"firstName": " Alard ",
+		"updatedBy": "admin",
+		"firstName": "John",
 		"lastName": "Rocca ",
 		"emailAddress": "alard@mail.com",
 		"phoneNumber": "53463",
@@ -60,14 +62,15 @@
 		"role": "Manager",
 		"hireDate": "2022-07-14T10:04:00.000Z",
 		"employmentType": "1",
-		"employeeReferenceNo": "9"
+		"employeeReferenceNo": "9",
+		"employmentTime": "0y 8m 8d"
 	},
 	{
 		"id": "b7cdb6dc-1ba9-ed11-a8e0-000d3ada944e",
 		"createdAt": "1676969872326",
-		"updatedAt": "1676969872326",
+		"updatedAt": "1679589957705",
 		"createdBy": "cezar.strugariu@neptune-software.com",
-		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "admin",
 		"firstName": "Jenny",
 		"lastName": "Hull",
 		"emailAddress": "jenny@mail.com",
@@ -81,15 +84,16 @@
 		"role": "Manager",
 		"hireDate": "2023-02-01T10:03:00.000Z",
 		"employmentType": "2",
-		"employeeReferenceNo": "3"
+		"employeeReferenceNo": "3",
+		"employmentTime": "0y 1m 19d"
 	},
 	{
 		"id": "b690156a-7767-4d38-bf1d-ac628b1d18a1",
 		"createdAt": "1676969872326",
-		"updatedAt": "1676969872326",
+		"updatedAt": "1679589957705",
 		"createdBy": "cezar.strugariu@neptune-software.com",
-		"updatedBy": "cezar.strugariu@neptune-software.com",
-		"firstName": "Ainzi",
+		"updatedBy": "admin",
+		"firstName": "Mark",
 		"lastName": "Husk",
 		"emailAddress": "ainzi@mail.com",
 		"phoneNumber": "356457458",
@@ -100,16 +104,17 @@
 		"postCode": "67789",
 		"department": "",
 		"role": "Accountant",
-		"hireDate": "2023-09-21T10:03:00.000Z",
+		"hireDate": "2023-03-21T10:03:00.000Z",
 		"employmentType": "2",
-		"employeeReferenceNo": "8"
+		"employeeReferenceNo": "8",
+		"employmentTime": "0y 0m 2d"
 	},
 	{
 		"id": "b66d2b66-60a8-ed11-a8e0-000d3ada944e",
 		"createdAt": "1676969872326",
-		"updatedAt": "1676969872326",
+		"updatedAt": "1679589957706",
 		"createdBy": "cezar.strugariu@neptune-software.com",
-		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "admin",
 		"firstName": "Peter",
 		"lastName": "Snow",
 		"emailAddress": "john@mail.com",
@@ -123,14 +128,15 @@
 		"role": "Manager",
 		"hireDate": "2022-01-30T10:02:00.000Z",
 		"employmentType": "1",
-		"employeeReferenceNo": "1"
+		"employeeReferenceNo": "1",
+		"employmentTime": "1y 1m 21d"
 	},
 	{
 		"id": "6e436094-68ac-ed11-a8e0-000d3ada944e",
 		"createdAt": "1676969872326",
-		"updatedAt": "1676969872326",
+		"updatedAt": "1679589957707",
 		"createdBy": "cezar.strugariu@neptune-software.com",
-		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "admin",
 		"firstName": "John",
 		"lastName": "Doo",
 		"emailAddress": "john.doe@email.com",
@@ -144,14 +150,15 @@
 		"role": "Manager",
 		"hireDate": "2019-04-08T10:03:00.000Z",
 		"employmentType": "1",
-		"employeeReferenceNo": "4"
+		"employeeReferenceNo": "4",
+		"employmentTime": "3y 11m 14d"
 	},
 	{
 		"id": "631db13d-fa59-40de-9217-e5e335710891",
 		"createdAt": "1676969872326",
-		"updatedAt": "1676969872326",
+		"updatedAt": "1679589957707",
 		"createdBy": "cezar.strugariu@neptune-software.com",
-		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "admin",
 		"firstName": "Holams",
 		"lastName": "Juks",
 		"emailAddress": "holams@mail.com",
@@ -165,14 +172,15 @@
 		"role": "Consultant",
 		"hireDate": "2015-02-16T10:04:00.000Z",
 		"employmentType": "3",
-		"employeeReferenceNo": "10"
+		"employeeReferenceNo": "10",
+		"employmentTime": "8y 1m 4d"
 	},
 	{
 		"id": "4ba48b1d-4e14-40a0-b62a-06d1080b7f3b",
 		"createdAt": "1676969872326",
-		"updatedAt": "1676969872326",
+		"updatedAt": "1679589957708",
 		"createdBy": "cezar.strugariu@neptune-software.com",
-		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "admin",
 		"firstName": "Kusleer",
 		"lastName": "Rhaskwo",
 		"emailAddress": "kulseer@mail.com",
@@ -186,14 +194,15 @@
 		"role": "Accountant",
 		"hireDate": "2015-02-03T10:03:00.000Z",
 		"employmentType": "3",
-		"employeeReferenceNo": "5"
+		"employeeReferenceNo": "5",
+		"employmentTime": "8y 1m 17d"
 	},
 	{
 		"id": "0ea9b42b-fa75-4f5d-860c-f5b0bcc9114a",
 		"createdAt": "1676969872326",
-		"updatedAt": "1676969872326",
+		"updatedAt": "1679589957709",
 		"createdBy": "cezar.strugariu@neptune-software.com",
-		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "admin",
 		"firstName": "Matt",
 		"lastName": "Hill",
 		"emailAddress": "matt@mail.com",
@@ -207,14 +216,15 @@
 		"role": "Manager",
 		"hireDate": "2016-03-14T10:04:00.000Z",
 		"employmentType": "1",
-		"employeeReferenceNo": "11"
+		"employeeReferenceNo": "11",
+		"employmentTime": "7y 0m 8d"
 	},
 	{
 		"id": "0bd3b5ee-dc59-455b-9e9d-a2d1e3eff3f2",
 		"createdAt": "1676969872326",
-		"updatedAt": "1676969872326",
+		"updatedAt": "1679589957709",
 		"createdBy": "cezar.strugariu@neptune-software.com",
-		"updatedBy": "cezar.strugariu@neptune-software.com",
+		"updatedBy": "admin",
 		"firstName": "Matias",
 		"lastName": "Silva",
 		"emailAddress": "matias@mail.com",
@@ -228,6 +238,7 @@
 		"role": "Consultant",
 		"hireDate": "2022-02-02T10:03:00.000Z",
 		"employmentType": "1",
-		"employeeReferenceNo": "7"
+		"employeeReferenceNo": "7",
+		"employmentTime": "1y 1m 18d"
 	}
 ]

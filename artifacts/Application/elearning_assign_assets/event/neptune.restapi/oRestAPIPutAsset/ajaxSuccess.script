@@ -1,0 +1,4 @@
+sap.m.MessageToast.show("Asset succesfully assigned!");
+oInputHardwareBrand.setValue("")
+oInputHardwareModel.setValue("")
+oInputHardwareSerialNumber.setValue("")

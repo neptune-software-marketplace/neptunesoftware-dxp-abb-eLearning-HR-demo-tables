@@ -1,0 +1,28 @@
+[
+	{
+		"id": "f5d15f2a-6cc9-425b-a71b-b261b6e30b8d",
+		"createdAt": "1679654874192",
+		"updatedAt": "1679654874192",
+		"createdBy": "admin",
+		"updatedBy": "admin",
+		"firstName": "John",
+		"brand": "Apple",
+		"model": "iPad Pro",
+		"serial": "APPL499684",
+		"type": "Tablet",
+		"lastName": "Doo"
+	},
+	{
+		"id": "cdd2a325-f1bb-4a9b-98ed-2392792343ec",
+		"createdAt": "1679653121200",
+		"updatedAt": "1679653420444",
+		"createdBy": "admin",
+		"updatedBy": "admin",
+		"firstName": "Holams",
+		"brand": "Apple",
+		"model": "iPad Pro",
+		"serial": "APPL39950",
+		"type": "Tablet",
+		"lastName": "Juks"
+	}
+]

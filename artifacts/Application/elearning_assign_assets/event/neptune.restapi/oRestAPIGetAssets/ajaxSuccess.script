@@ -1,0 +1,2 @@
+var assets = xhr.responseJSON;
+console.log(assets);

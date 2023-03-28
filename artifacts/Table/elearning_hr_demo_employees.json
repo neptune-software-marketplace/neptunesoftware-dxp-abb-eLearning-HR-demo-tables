@@ -100,13 +100,21 @@
 			"fieldType": "text",
 			"isUnique": false,
 			"description": "Reference Number"
+		},
+		{
+			"id": "15552632-f0d8-406a-b7c1-f47c6c769aa4",
+			"fieldName": "employmentTime",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true,
+			"description": "Employment Time"
 		}
 	],
 	"indices": [],
 	"foreignKeys": [],
 	"name": "elearning_hr_demo_employees",
 	"description": null,
-	"ver": "23.2.22.954",
+	"ver": "23.3.23.1633",
 	"enableAudit": false,
 	"includeDataInPackage": true,
 	"package": "aa637821-dcad-ed11-a8e0-000d3ada944e",

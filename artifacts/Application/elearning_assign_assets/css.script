@@ -1,0 +1,31 @@
+.submitBtn {
+    color: white;
+    background-color: #00327c;
+    border-color: #00327c;
+    margin: 2rem;
+}
+
+.submitBtn:focus {
+    color: white;
+    background-color: #00327c;
+    border-color: #00327c;
+    box-shadow: none;
+}
+
+.submitBtn:hover {
+    color: white;
+    background-color: #00327c;
+    border-color: #00327c;
+}
+
+.mainPage {
+    background-color: #f7f7f700;
+}
+
+.sapMWizard .sapMWizardStepContainer {
+    background: #fff0;
+}
+
+.sapMWizard {
+    background-color: #fff0;
+}

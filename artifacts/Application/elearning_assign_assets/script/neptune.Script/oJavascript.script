@@ -1,0 +1,47 @@
+sap.n.Shell.attachBeforeDisplay(function(startParams) {
+
+    oInputfirstName.setValue(startParams.data.firstName)
+    oInputlastName.setValue(startParams.data.lastName)
+    oInputRole.setValue(startParams.data.role)
+
+    apioRestAPIGetAssets({
+
+        parameters: {
+
+            "where":JSON.stringify({ "firstName" : startParams.data.firstName })
+
+        },
+
+    });
+    
+    oIconTabBar.setSelectedKey("here")
+})
+
+function submit() {
+    if (oInputHardwareBrand.getValue() === "") {
+        sap.m.MessageBox.show("Please provide the brand.")
+        return;
+    }
+    if (oInputHardwareModel.getValue() === "") {
+        sap.m.MessageBox.show("Please provide the model.")
+        return;
+    }
+    if (oInputHardwareSerialNumber.getValue() === "") {
+        sap.m.MessageBox.show("Please provide the serial number.")
+        return;
+    }
+    var options = {
+        data: {
+            "firstName": oInputfirstName.getValue(),
+            "lastName": oInputlastName.getValue(),
+            "type": oSelect.getSelectedKey(),
+            "brand": oInputHardwareBrand.getValue(),
+            "model": oInputHardwareModel.getValue(),
+            "serial": oInputHardwareSerialNumber.getValue(),
+        }
+    };
+
+    apioRestAPIPutAsset(options);
+
+}
+
